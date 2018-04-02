@@ -1,1 +1,4 @@
-Edit this file to add assembly instructions
+The Fusion 360 file uses parameters to ensure that all parts fit together. Like if you choose to use a different thickness plywood, the slots and tabs will have to be adjusted. Using the parameters you don't need to edit sketch dimensions, just enter the new number in the parameters window.
+To access these parameters, go to the "Model" workspace, then the "Modify" menu dropdown, then select "Change Parameters".
+The parameters shown are pretty self explanatory and have comments for each. The one labeled "Can" is a reference to the PDF that was the inspiration for this project. The author used a soup can to draw the radius of the corners. I also added the "Gap" parameter so that I could account for any polyurethane or other coatings to be applied during finishing. 
+A modification I plan to make to the project is to add a sketch and toolpath for a checker board to the top of the table. I've also been asked to add Chinese checkers and a game called Joker, both use marbles.  
